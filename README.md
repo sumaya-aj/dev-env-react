@@ -73,13 +73,13 @@
   5. run  ``` mkdir server ```
 
 
-from article:
+* from article:
   1. add src/server/server.js
   2. add sample react component in src/components/App.js
   3. add src/index.js (DOM renderer) 
 
 
-run the app:
+* run the app:
   1. ``` npm run dev:server ```
   2. ``` npm run dev:bundler ```
     
