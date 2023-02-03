@@ -1,6 +1,6 @@
 ﻿# Development Environment - React JS
  
-- based on https://jscomplete.com/learn/1rd-reactful
+reference: https://jscomplete.com/learn/1rd-reactful
 
 [1] install dependencies <br />
 [2] configure dependencies <br />
