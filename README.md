@@ -2,9 +2,9 @@
  
 - based on https://jscomplete.com/learn/1rd-reactful
 
-[1] install dependencies__
-[2] configure dependencies__
-[3] run server and webpack__
+[1] install dependencies <br />
+[2] configure dependencies <br />
+[3] run server and webpack <br />
 
 
 -------------------------
