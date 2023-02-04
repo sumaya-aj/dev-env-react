@@ -73,7 +73,7 @@ reference: https://jscomplete.com/learn/1rd-reactful
   5. run  ``` mkdir server ```
 
 
-* from article:
+* from reference article:
   1. add src/server/server.js
   2. add sample react component in src/components/App.js
   3. add src/index.js (DOM renderer) 
